@@ -23,12 +23,12 @@ You'll see three links, including Spring MVC Controller, Ajax and JQuery and JSO
 
 ####Details
 
--1. http://localhost:8080/CrunchifySpringMVC/welcome.html shows the message, which is coming from CrunchifyHelloWorld.java.
+--1. http://localhost:8080/CrunchifySpringMVC/welcome.html shows the message, which is coming from CrunchifyHelloWorld.java. Like this：
 >********** Hello World, Spring MVC Tutorial
 
 >This message is coming from CrunchifyHelloWorld.java **********
 
--2. http://localhost:8080/CrunchifySpringMVC/ajax.html shows the random number.
+--2. http://localhost:8080/CrunchifySpringMVC/ajax.html shows the random number. Like this：
 >Crunchify Spring MVC with Ajax and JQuery Demo.. 
 
 >Next Random # is 92.53353. Generated on Wed Jan 04 16:06:16 CST 2017
