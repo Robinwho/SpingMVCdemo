@@ -4,7 +4,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  
 /*
  * author: Crunchify.com
- * 
+ *  
  */
  
 public class CrunchifyMain {
@@ -15,3 +15,5 @@ public class CrunchifyMain {
 		bean.crunchifyLogSpringBeans(ctx);
 	}
 }
+
+// 20170124 To-do list: Add Junit Test Case.
