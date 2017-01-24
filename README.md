@@ -34,9 +34,10 @@ shows the message, which is coming from CrunchifyHelloWorld.java. Like this：
 --2. 
 http://localhost:8080/CrunchifySpringMVC/ajax.html
 shows the random number. Like this：
->Crunchify Spring MVC with Ajax and JQuery Demo.. 
 
+>Crunchify Spring MVC with Ajax and JQuery Demo.. 
 >Next Random # is 92.53353. Generated on Wed Jan 04 16:06:16 CST 2017
--3. 
+
+--3. 
 http://localhost:8080/CrunchifySpringMVC/json.html
 shows the json demo.
