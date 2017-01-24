@@ -32,3 +32,5 @@ public class CrunchifySpringAjaxJQuery {
 		return result;
 	}
 }
+
+// 20170124 To-do list: Add Junit Test Case.
